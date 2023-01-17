@@ -1,3 +1,5 @@
+// this function will take input from command line and will sift and sort them to save the numbers and return system beeps for that numbers
+
 const args = process.argv.slice(2);
 // efine an array to pick the numbers from all input
 let times = [];
